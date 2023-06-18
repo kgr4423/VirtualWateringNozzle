@@ -1,5 +1,5 @@
 # VirtualWateringNozzle
 モータ・センサ・マイコンを使って散水機使用時の水の反力を再現したシステム
 
-DATK_control にてマイコンspresense用に書いたコードが見れます
+DATK_control にてマイコンDATK用に書いたコードが見れます
 その他ファイルはUnityプロジェクト用で Assets/Scripts にて書いたコードが見れます
