@@ -1,0 +1,33 @@
+﻿cl : コマンド ライン warning D9035: オプション 'Gm' の使用は現在推奨されていません。今後のバージョンからは削除されます。
+  Server.cpp
+C:\Users\KukitaHikaru\Documents\ITF_documents\感触研\VR研自由課題\自由課題用プログラム\vrlab_free_project_kukita\Server.cpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\KukitaHikaru\Documents\ITF_documents\感触研\VR研自由課題\自由課題用プログラム\vrlab_free_project_kukita\CM01.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\KukitaHikaru\Documents\ITF_documents\感触研\VR研自由課題\自由課題用プログラム\vrlab_free_project_kukita\ControlModule.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\KukitaHikaru\Documents\ITF_documents\感触研\VR研自由課題\自由課題用プログラム\vrlab_free_project_kukita\ControlModule.h(187,72): warning C4474: 'sprintf_s': 書式文字列に渡された引数の数が多すぎます
+C:\Users\KukitaHikaru\Documents\ITF_documents\感触研\VR研自由課題\自由課題用プログラム\vrlab_free_project_kukita\ControlModule.h(187,72): message : プレースホルダーとそのパラメーターには 0 の可変個引数が必要ですが、1 が指定されています。
+C:\Users\KukitaHikaru\Documents\ITF_documents\感触研\VR研自由課題\自由課題用プログラム\vrlab_free_project_kukita\Server.cpp(45,17): warning C4244: '初期化中': '_Rep' から 'double' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\KukitaHikaru\Documents\ITF_documents\感触研\VR研自由課題\自由課題用プログラム\vrlab_free_project_kukita\Server.cpp(71,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  SC02.cpp
+C:\Users\KukitaHikaru\Documents\ITF_documents\感触研\VR研自由課題\自由課題用プログラム\vrlab_free_project_kukita\ControlModule.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\KukitaHikaru\Documents\ITF_documents\感触研\VR研自由課題\自由課題用プログラム\vrlab_free_project_kukita\ControlModule.h(187,72): warning C4474: 'sprintf_s': 書式文字列に渡された引数の数が多すぎます
+C:\Users\KukitaHikaru\Documents\ITF_documents\感触研\VR研自由課題\自由課題用プログラム\vrlab_free_project_kukita\ControlModule.h(187,72): message : プレースホルダーとそのパラメーターには 0 の可変個引数が必要ですが、1 が指定されています。
+  Measurement.cpp
+C:\Users\KukitaHikaru\Documents\ITF_documents\感触研\VR研自由課題\自由課題用プログラム\vrlab_free_project_kukita\Measurement.cpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  Main.cpp
+C:\Users\KukitaHikaru\Documents\ITF_documents\感触研\VR研自由課題\自由課題用プログラム\vrlab_free_project_kukita\Main.cpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\KukitaHikaru\Documents\ITF_documents\感触研\VR研自由課題\自由課題用プログラム\vrlab_free_project_kukita\CM01.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\KukitaHikaru\Documents\ITF_documents\感触研\VR研自由課題\自由課題用プログラム\vrlab_free_project_kukita\ControlModule.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\KukitaHikaru\Documents\ITF_documents\感触研\VR研自由課題\自由課題用プログラム\vrlab_free_project_kukita\ControlModule.h(187,72): warning C4474: 'sprintf_s': 書式文字列に渡された引数の数が多すぎます
+C:\Users\KukitaHikaru\Documents\ITF_documents\感触研\VR研自由課題\自由課題用プログラム\vrlab_free_project_kukita\ControlModule.h(187,72): message : プレースホルダーとそのパラメーターには 0 の可変個引数が必要ですが、1 が指定されています。
+  CM01.cpp
+C:\Users\KukitaHikaru\Documents\ITF_documents\感触研\VR研自由課題\自由課題用プログラム\vrlab_free_project_kukita\CM01.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\KukitaHikaru\Documents\ITF_documents\感触研\VR研自由課題\自由課題用プログラム\vrlab_free_project_kukita\ControlModule.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\KukitaHikaru\Documents\ITF_documents\感触研\VR研自由課題\自由課題用プログラム\vrlab_free_project_kukita\ControlModule.h(187,72): warning C4474: 'sprintf_s': 書式文字列に渡された引数の数が多すぎます
+C:\Users\KukitaHikaru\Documents\ITF_documents\感触研\VR研自由課題\自由課題用プログラム\vrlab_free_project_kukita\ControlModule.h(187,72): message : プレースホルダーとそのパラメーターには 0 の可変個引数が必要ですが、1 が指定されています。
+  コードを生成中...
+CM01.obj : warning LNK4075: /EDITANDCONTINUE は /SAFESEH の指定によって無視されます。
+  CM01_VCSample.vcxproj -> C:\Users\KukitaHikaru\Documents\ITF_documents\感触研\VR研自由課題\自由課題用プログラム\vrlab_free_project_kukita\Debug\CM01_VcSample.exe
