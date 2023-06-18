@@ -23,7 +23,7 @@ public class Client : MonoBehaviour
 
     void Start()
     {
-        //サーバに送信するデータ
+        //サーバに送信するデータa
         data = "1234567";
 
         //サーバーのIPアドレスとポート番号
